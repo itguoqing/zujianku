@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+技术栈内容：fontawesom，reacttransitiongroup，animate.css,testing-library(jest),classnames,scss,eslint,react18,ts,storubook,jsonplaceholder,mock（mocky.io）用于mock
 ## Available Scripts
 
 In the project directory, you can run:
